@@ -7,4 +7,4 @@ Love **Mathematics & Computer Science**
 
 Favorite Language is **Python** ![](assets/py.png)
 
-[![SiriusNEO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiriusNEO&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![SiriusNEO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiriusNEO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
