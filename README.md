@@ -1,6 +1,6 @@
-## About Me
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SiriusNEO&count_private=true&include_all_commits=true"/>
 
-名字的读法是 ['siəriəsˈniːəʊ]. STJU本科CS在读，对数学和计算机科学感兴趣.
-
-[![SiriusNEO's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SiriusNEO)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SiriusNEO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Pronunciation: ['siəriəsˈniːəʊ].
+- Undergraduate CS student in STJU, ACM Class.
+- Interested in Math and Computer Science.
+- Good at sorting and organizing things. ~Also good at mess up them again.~
