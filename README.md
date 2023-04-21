@@ -5,3 +5,4 @@
 - Interested in Math and Computer Science.
 - Living in [Metric Space](http://me.tric.space/).
 - Good at sorting and organizing things systematically. ~Also good at mess up them again.~
+- My avatar is the character 霊烏路 空 in a STG game called Touhou Project.
