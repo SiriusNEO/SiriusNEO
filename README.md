@@ -1,6 +1,6 @@
 ## Bio
 
-I am currently a Ph.D. student in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, and an engineer on the Infra team at [DeepSeek AI](https://github.com/deepseek-ai).
+I am currently a Ph.D. student majoring in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, and an engineer on the Infra team at [DeepSeek AI](https://github.com/deepseek-ai). I go by `SiriusNEO` on most websites. And I usually use `Chaos` as a nickname (a variant of my real name).
 
 Previously I'm an undergraduate student in Shanghai Jiao Tong University, [ACM Class](https://acm.sjtu.edu.cn/home). My research interest lies in building practical, scalable and efficient systems for machine learning (**MLSys**), like **serving system** and **deep learning compiler**. I also enjoy writing some tutorials and blogs to share my experience in research & development. For more information, please refer to:
 - [Academic Personal Page](https://chaofanlin.com/).
